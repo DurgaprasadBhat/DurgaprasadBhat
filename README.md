@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DurgaprasadBhat
+-# 👋 Hi, I’m @DurgaprasadBhat
 - 👀 I’m interested in robots.
 - 🌱 I’m currently learning android studio.
-- 💞️ I’m looking to collaborate on a android app.
+- 💞️ I’m looking to collaborate on an android app.
 - 📫 How to reach me ...
 
 <!---
