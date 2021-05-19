@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @DurgaprasadBhat
-- 👀 I’m interested in robots.
+- 👀 I’m interested in electronics.
 - 🌱 I’m currently learning android studio.
 - 💞️ I’m looking to collaborate on an android app.
 - 📫 How to reach me ...
